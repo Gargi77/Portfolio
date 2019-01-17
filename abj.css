@@ -1,0 +1,71 @@
+.body{
+	background-image: url('https://i.pinimg.com/originals/21/7b/7a/217b7a9bfe1470d23e6a553fcf9e5703.jpg');
+	background-size: cover;
+	}
+.a{
+	max-width: 900px;
+	margin: auto;
+}
+.b{
+	display: flex;
+	flex-width: wrap;
+	width: 100%;
+}
+.c{
+	flex-basis: 100%;
+}
+@media screen and (max-width: 650px)
+{
+	.logo{
+		width: 50%;
+		height: 50%;
+		float: left;
+	}
+
+
+}
+
+.d
+{
+   text-align: right;
+  float: right;
+  color: white;
+}
+.e
+{
+  font-family:'Broadway', Courier, monospace;
+  color: white;
+}
+.h
+{
+    font-family: 'Cooper Black';
+    color: black;
+    text-decoration: underline;
+    
+}
+.g
+{
+   max-width: 100%;
+   display: block;
+}
+
+p{
+	color: red;
+	text-decoration: underline;
+}
+.i
+{
+    width: 100%;
+	height: 70%;
+    display: block;
+}
+.logo
+{
+    display: block;
+    height: 150px;
+    width: 150px;
+}
+
+
+
+	
